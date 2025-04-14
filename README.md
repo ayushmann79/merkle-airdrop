@@ -11,7 +11,11 @@ Foundry consists of:
 
 ## Documentation
 
-https://book.getfoundry.sh/
+Quickstart
+git clone https://github.com/ayushmann79/merkle-airdrop
+cd merkle-airdrop
+
+forge build
 
 ## Usage
 
