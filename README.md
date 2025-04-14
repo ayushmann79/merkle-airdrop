@@ -12,7 +12,9 @@ Foundry consists of:
 ## Documentation
 
 Quickstart
+
 git clone https://github.com/ayushmann79/merkle-airdrop
+
 cd merkle-airdrop
 
 forge build
