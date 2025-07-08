@@ -54,7 +54,7 @@ $ anvil
 ### Deploy
 
 ```shell
-forge script script/GenerateInput.s.sol:GenerateInput && forge script script/MakeMerkle.s.sol:MakeMerkle
+forge script script/MakeMerkle.s.sol:MakeMerkle
 ```
 
 ### Cast
